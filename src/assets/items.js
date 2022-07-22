@@ -20,7 +20,7 @@ const items = [{
 {
     "title": "Spotify",
     "subtitle": "casyks Artist Profile",
-    "image": instagram,
+    "image": spotify,
     "link": "https://open.spotify.com/artist/1fHGp2TTdSU1jVQymk6dFD" //spotify link 
 },
 {
