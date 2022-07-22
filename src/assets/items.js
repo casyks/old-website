@@ -4,6 +4,7 @@ import linkedin from '../assets/linkedin.jpg'
 import youtube from '../assets/youtube.jpeg'
 import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
+import spotify from '../assets/spotify.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
@@ -20,6 +21,12 @@ const items = [{
     "link": "https://instagram.com/casyks" //instagram profile link 
 },
 {
+    "title": "Spotify",
+    "subtitle": "casyks Artist Profile",
+    "image": instagram,
+    "link": "https://open.spotify.com/artist/1fHGp2TTdSU1jVQymk6dFD" //spotify link 
+},
+{
     "title": "Twitter",
     "subtitle": "@casyks | 😉",
     "image": twitter,
@@ -29,7 +36,7 @@ const items = [{
     "title": "YouTube",
     "subtitle": "casyks | soon will be oac",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
+    "link": "https://www.youtube.com/channel/UC98QgaolcJz_T8OIrDtppfA"//youtube channel link 
 },
 
 {
