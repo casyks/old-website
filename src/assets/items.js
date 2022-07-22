@@ -8,53 +8,35 @@ import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
 const items = [{
-    "title": "Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
-},
-{
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "subtitle": "@casyks",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/casyks" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@casyks",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/casyks" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
+    "subtitle": "@casyks | 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
-},
-{
-    "title": "LinkedIn",
-    "subtitle": "Know more about my profession 👨‍💼",
-    "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://twitter.com/casyks"// twitter profile link 
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "casyks | soon will be oac",
     "image": youtube,
     "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
 },
 
 {
     "title": "Dribbble",
-    "subtitle": "@virtuonic | shots of dezigns ",
+    "subtitle": "@casyks | some design shots ",
     "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
-},
-{
-    "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
-    "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://dribbble.com/casyks" // Dribbble profile link 
 }]
 
 export default items
