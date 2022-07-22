@@ -1,4 +1,3 @@
-import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 import linkedin from '../assets/linkedin.jpg'
 import youtube from '../assets/youtube.jpeg'
