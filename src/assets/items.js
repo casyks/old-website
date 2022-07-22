@@ -1,10 +1,8 @@
 import instagram from '../assets/instagram.png'
-import linkedin from '../assets/linkedin.jpg'
 import youtube from '../assets/youtube.jpeg'
 import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import spotify from '../assets/spotify.png'
-import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
 const items = [{
