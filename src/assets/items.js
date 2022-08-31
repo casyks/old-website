@@ -8,31 +8,31 @@ import twitter from '../assets/twitter.png'
 
 const items = [{
     "title": "Behance",
-    "subtitle": "my Behance page where I share the stylish looking designs I made!",
+    "subtitle": "All the stylish designs I made in here!",
     "image": behance,
     "link": "http://be.net/casyks" //behance profile link 
 },
 {
     "title": "Dribbble",
-    "subtitle": "like behance some design shots in here too!",
+    "subtitle": "Like behance some design shots in here too!",
     "image": dribbble,
     "link": "https://dribbble.com/casyks" // Dribbble profile link 
 },
     {
     "title": "GitHub",
-    "subtitle": "my Github profile with this website and many more projects.",
+    "subtitle": "My Github profile with this website and many more projects.",
     "image": github,
     "link": "https://github.com/casyks" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "my personal Instagram page!",
+    "subtitle": "My personal Instagram account, follow me!",
     "image": instagram,
     "link": "https://instagram.com/casyks" //instagram profile link 
 },
 {
     "title": "Spotify",
-    "subtitle": "my Spotify Artist page where I share my songs!",
+    "subtitle": "My Spotify Artist page where I share my songs!",
     "image": spotify,
     "link": "https://open.spotify.com/artist/1fHGp2TTdSU1jVQymk6dFD" //spotify link 
 },
@@ -44,7 +44,7 @@ const items = [{
 },
 {
     "title": "YouTube",
-    "subtitle": "official artist Youtube channel",
+    "subtitle": "Official artist Youtube channel",
     "image": youtube,
     "link": "https://www.youtube.com/channel/UC98QgaolcJz_T8OIrDtppfA"//youtube channel link 
 }]
