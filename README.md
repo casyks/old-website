@@ -2,4 +2,4 @@
 
 This project is open-source. You can use it for yourself!
 
-- [Discord](https://discord.gg/HSExNkAbSa)
+- Wanna support me? Join my [Discord!](https://discord.gg/PPfRC9kcJh)
